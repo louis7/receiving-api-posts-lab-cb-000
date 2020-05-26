@@ -17,7 +17,7 @@ RSpec.describe ProductsController, type: :controller do
   end
 
   describe "GET show" do
-    it 'returns a JSON representation of
+    it 'returns a JSON representation of' do
     end
   end
 
